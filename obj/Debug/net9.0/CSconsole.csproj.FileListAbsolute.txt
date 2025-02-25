@@ -1,0 +1,15 @@
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\bin\Debug\net9.0\CSconsole.exe
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\bin\Debug\net9.0\CSconsole.deps.json
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\bin\Debug\net9.0\CSconsole.runtimeconfig.json
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\bin\Debug\net9.0\CSconsole.dll
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\bin\Debug\net9.0\CSconsole.pdb
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\CSconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\CSconsole.AssemblyInfoInputs.cache
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\CSconsole.AssemblyInfo.cs
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\CSconsole.csproj.CoreCompileInputs.cache
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\CSconsole.dll
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\refint\CSconsole.dll
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\CSconsole.pdb
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\CSconsole.genruntimeconfig.cache
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\ref\CSconsole.dll
+C:\Users\vivobook\OneDrive\Desktop\CSconsole\obj\Debug\net9.0\CSconsole.sourcelink.json

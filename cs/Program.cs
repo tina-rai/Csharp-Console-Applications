@@ -10,8 +10,7 @@ class Program
 
      
         // Create an instance of ToDoListManager and run it
-
-        // Load tasks from file at the beginning
+           // Load tasks from file at the beginning
         //ToDoListManager.LoadTasks();
 
         
@@ -28,7 +27,16 @@ class Program
      
      
       //bank CLI
-          BankSystem bank = new BankSystem();
-        bank.Start();
+          //BankSystem bank = new BankSystem();
+       // bank.Start();
+
+
+          //File Organizer
+         FileOrganizer organizer = new FileOrganizer();
+        
+        Console.Write("Enter directory path: ");
+        string? directoryPath = Console.ReadLine();
+        
+        organizer.OrganizeFiles(directoryPath!);
     }
 }
