@@ -31,12 +31,11 @@ class Program
        // bank.Start();
 
 
-          //File Organizer
+         
+        //File Organizer
          FileOrganizer organizer = new FileOrganizer();
-        
         Console.Write("Enter directory path: ");
         string? directoryPath = Console.ReadLine();
-        
-        organizer.OrganizeFiles(directoryPath!);
+         organizer.OrganizeFiles(directoryPath!);
     }
 }
